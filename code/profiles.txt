@@ -1,0 +1,2 @@
+alfred,25,male,boston,female
+margot,24,female,boston,male
